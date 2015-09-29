@@ -4,7 +4,7 @@
 #
 Name     : rubygem-prawn
 Version  : 2.0.1
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/prawn-2.0.1.gem
 Source0  : https://rubygems.org/downloads/prawn-2.0.1.gem
 Summary  : No detailed summary available
